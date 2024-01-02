@@ -3,11 +3,13 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="eb"
-                 name="Erkan Blog"
-                 start-page="Default-topic.md">
+                  name="Erkan Blog"
+                  start-page="Main.md">
 
-    <toc-element topic="Default-topic.md"/>
-    <toc-element topic="How-to-Writeside.md">
-        <toc-element topic="Hello-Enis.md"/>
+    <toc-element topic="Main.md"/>
+    <toc-element topic="Medicine-Diagram.md"/>
+    <toc-element topic="tutorial-writerside.md"/>
+    <toc-element topic="Third-Topic.md">
+        <toc-element topic="Child-of-Third-Topic.md"/>
     </toc-element>
 </instance-profile>

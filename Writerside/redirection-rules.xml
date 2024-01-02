@@ -10,4 +10,12 @@
         <description>Created after removal of "How to 'Writeside'" from Help Instance</description>
         <accepts>How-to-Writeside.html</accepts>
     </rule>
+    <rule id="5426f98a">
+        <description>Created after removal of "Hello Enis" from Erkan Blog</description>
+        <accepts>Hello-Enis.html</accepts>
+    </rule>
+    <rule id="f504e24">
+        <description>Created after removal of "Third Topic??" from Erkan Blog</description>
+        <accepts>Third-Topic.html</accepts>
+    </rule>
 </rules>

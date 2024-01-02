@@ -4,7 +4,6 @@
 
 I like fast output. Let's test this on GitHub personal page. 
 
-
 ```mermaid
 sequenceDiagram
     actor Eczaci
