@@ -10,6 +10,8 @@
     <toc-element topic="Medicine-Diagram.md"/>
     <toc-element topic="tutorial-writerside.md"/>
     <toc-element topic="Third-Topic.md">
-        <toc-element topic="Child-of-Third-Topic.md"/>
+        <toc-element topic="Child-of-Third-Topic.md">
+            <toc-element topic="Empty-MD-Topic.md"/>
+        </toc-element>
     </toc-element>
 </instance-profile>
